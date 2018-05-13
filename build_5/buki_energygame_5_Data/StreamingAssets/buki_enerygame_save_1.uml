@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SaveData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <fileName>buki_enerygame_save_1</fileName>
+  <serializedTypes>
+    <string>System.String[], mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</string>
+    <string>System.Int32[], mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</string>
+  </serializedTypes>
+  <serializedData>
+    <DataContainer>
+      <key>Name</key>
+      <value xsi:type="ArrayOfString">
+        <string>Nursultan</string>
+        <string>Tetsuya</string>
+        <string>Jimi​</string>
+        <string>Aimambet</string>
+        <string>Trump</string>
+      </value>
+    </DataContainer>
+    <DataContainer>
+      <key>score</key>
+      <value xsi:type="ArrayOfInt">
+        <int>30</int>
+        <int>25</int>
+        <int>17</int>
+        <int>12</int>
+        <int>0</int>
+      </value>
+    </DataContainer>
+  </serializedData>
+</SaveData>
